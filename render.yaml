@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: marketing-war-udlap
-    runtime: node
-    buildCommand: npm install
-    startCommand: npm start
-    plan: free
